@@ -47,4 +47,4 @@ This project is open-source and free to use for educational purposes.
 
 
 ---
-**Author:** [Dilliganesh.K](https://github.com/dilliganesh1) | **Email:** kcdilliganesh15@gmail.com  
+**Author:** [Dilliganesh.K](https://github.com/dilliganesh15) | **E-mail:** kcdilliganesh15@gmail.com  
