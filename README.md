@@ -1,3 +1,9 @@
+![Inflation Trends](cover.png)
+<p align="center">
+  <img src="cover.png" alt="Inflation Trends" width="800">
+</p>
+
+
 # Global Inflation Rate Analysis (1960-2023)
 
 ## 📌 Table of Contents  
