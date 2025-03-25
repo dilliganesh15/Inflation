@@ -34,5 +34,16 @@ This project analyzes global inflation trends from 1960 to 2023 using World Bank
 ## License  
 This project is open-source and free to use for educational purposes.
 
+## 📌 Table of Contents  
+- [Project Overview](#project-overview)  
+- [Technologies Used](#technologies-used)  
+- [Dataset](#dataset)  
+- [Exploratory Data Analysis](#exploratory-data-analysis)  
+- [Trend Analysis](#trend-analysis)  
+- [Predictive Analysis](#predictive-analysis)  
+- [How to Run](#how-to-run)  
+- [Future Improvements](#future-improvements)  
+
+
 ---
-**Author:** [Your Name](https://github.com/your-username) | **Email:** your-email@example.com  
+**Author:** [Dilliganesh.K](https://github.com/your-username) | **Email:** kcdilliganesh15@gmail.com  
