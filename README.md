@@ -1,5 +1,15 @@
 # Global Inflation Rate Analysis (1960-2023)
 
+## 📌 Table of Contents  
+- [Project Overview](#project-overview)  
+- [Technologies Used](#technologies-used)  
+- [Dataset](#dataset)  
+- [Exploratory Data Analysis](#exploratory-data-analysis)  
+- [Trend Analysis](#trend-analysis)  
+- [Predictive Analysis](#predictive-analysis)  
+- [How to Run](#how-to-run)  
+- [Future Improvements](#future-improvements)
+  
 ## Project Overview  
 This project analyzes global inflation trends from 1960 to 2023 using World Bank data. It includes data cleaning, visualization, trend analysis, and predictive modeling using ARIMA.
 
@@ -34,16 +44,7 @@ This project analyzes global inflation trends from 1960 to 2023 using World Bank
 ## License  
 This project is open-source and free to use for educational purposes.
 
-## 📌 Table of Contents  
-- [Project Overview](#project-overview)  
-- [Technologies Used](#technologies-used)  
-- [Dataset](#dataset)  
-- [Exploratory Data Analysis](#exploratory-data-analysis)  
-- [Trend Analysis](#trend-analysis)  
-- [Predictive Analysis](#predictive-analysis)  
-- [How to Run](#how-to-run)  
-- [Future Improvements](#future-improvements)  
 
 
 ---
-**Author:** [Dilliganesh.K](https://github.com/your-username) | **Email:** kcdilliganesh15@gmail.com  
+**Author:** [Dilliganesh.K](https://github.com/dilliganesh1) | **Email:** kcdilliganesh15@gmail.com  
